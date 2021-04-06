@@ -17,6 +17,7 @@ public class GitApplication {
 		System.out.println("이건 로컬저장소에서 등록");
 		System.out.println("작동안됨");
 		// 마지막 테스트
+		System.out.println("끝");
 	}
 
 }
