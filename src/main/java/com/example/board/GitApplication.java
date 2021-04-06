@@ -13,6 +13,7 @@ public class GitApplication {
 		System.out.println("내려받기 테스트");
 		System.out.println("다시 올리기");
 		System.out.println("마지막 테스트");
+		System.out.println("이건 로컬저장소에서 등록");
 	}
 
 }
